@@ -17,6 +17,6 @@ public class dene2 {
               System.out.println("mustafa 18.48");
         System.out.println("mustafa 18.32");
         System.out.println("mustafa 19.42");
-
+        System.out.println("mustafa 19.52");
     }
 }
