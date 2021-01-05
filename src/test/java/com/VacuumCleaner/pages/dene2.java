@@ -10,6 +10,8 @@ public class dene2 {
             
         }
 
+        System.out.println("tahsin 17:44");
+
 
     }
 }
