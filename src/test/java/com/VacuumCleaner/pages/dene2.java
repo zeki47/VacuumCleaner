@@ -6,6 +6,10 @@ public class dene2 {
         System.out.println("deneme");
         System.out.println("deneme");
 
+        for (String arg : args) {
+            
+        }
+
 
     }
 }
