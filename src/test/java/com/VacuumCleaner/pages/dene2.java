@@ -14,6 +14,8 @@ public class dene2 {
         System.out.println("tahsin 18:19");
         System.out.println("tahsin 18:24");
         System.out.println("mustafa 18.32");
+        System.out.println("mustafa 18.32");
+        System.out.println("mustafa 18.48");
 
 
     }
