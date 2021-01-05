@@ -21,7 +21,7 @@ public class dene2 {
         System.out.println("mustafa 19.55");
 
 
-        System.out.println("mustafa bititriyoruz");
+
 
     }
 }
