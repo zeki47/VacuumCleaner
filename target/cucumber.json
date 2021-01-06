@@ -1,0 +1,100 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-06T14:35:25.617Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1994500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "buying a cleaner",
+        "description": "",
+        "id": "alisveris;buying-a-cleaner",
+        "after": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\r\n\tat com.VacuumCleaner.Utilities.Driver.closeDriver(Driver.java:68)\r\n\tat com.VacuumCleaner.StepDefinitions.Hooks.tearDown(Hooks.java:24)\r\n",
+              "duration": 8977200,
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4982600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user is on alisveris page",
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.alisverisstep_defs.the_user_is_on_alisveris_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2001700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "and the user chooses any product",
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.alisverisstep_defs.and_the_user_chooses_any_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 995500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user inputs the info",
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.alisverisstep_defs.the_user_inputs_the_info()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the user buys a product",
+            "match": {
+              "location": "com.VacuumCleaner.StepDefinitions.alisverisstep_defs.the_user_buys_a_product()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@addproduct"
+          }
+        ]
+      }
+    ],
+    "name": "Alisveris",
+    "description": "",
+    "id": "alisveris",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/alisveris.feature",
+    "tags": []
+  }
+]

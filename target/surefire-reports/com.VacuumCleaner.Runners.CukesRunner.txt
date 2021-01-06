@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.VacuumCleaner.Runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.009 s <<< FAILURE! - in com.VacuumCleaner.Runners.CukesRunner
+initializationError(com.VacuumCleaner.Runners.CukesRunner)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: C:\Users\Saleh\Desktop\VacuumCleaner\VacuumCleaner\features
+
