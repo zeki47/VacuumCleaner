@@ -13,8 +13,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/VacuumCleaner/StepDefinitions",
 
-        dryRun = false,
-        tags = "@addproduct"
+        dryRun = true,
+        tags = "@urunler"
 )
 public class CukesRunner {
 }
