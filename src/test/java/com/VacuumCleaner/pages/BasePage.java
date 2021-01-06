@@ -1,6 +1,7 @@
 package com.VacuumCleaner.pages;
 
 import com.VacuumCleaner.Utilities.BrowserUtils;
+import com.VacuumCleaner.Utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;

@@ -12,6 +12,7 @@ import org.junit.runner.RunWith;
                 "rerun:target/rerun.txt"},
         features = "src/test/resources/features",
         glue = "com/VacuumCleaner/StepDefinitions",
+
         dryRun = true,
         tags = "@addproduct"
 )
