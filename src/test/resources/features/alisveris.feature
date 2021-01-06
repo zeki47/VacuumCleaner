@@ -7,4 +7,3 @@ Feature: Alisveris
     When the user inputs the info
     Then the user buys a product
 
-  C:\Users\tahsi\IdeaProjects\VacuumCleaner\src\test\resources\features
