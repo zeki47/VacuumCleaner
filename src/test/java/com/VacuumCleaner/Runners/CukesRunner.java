@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         glue = "com/VacuumCleaner/StepDefinitions",
 
         dryRun = true,
-        tags = "@urunler"
+        tags = "@navigate"
 )
 public class CukesRunner {
 }
